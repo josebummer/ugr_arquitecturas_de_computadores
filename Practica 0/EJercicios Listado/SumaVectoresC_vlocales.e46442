@@ -1,0 +1,8 @@
+/var/lib/torque/mom_priv/jobs/46442.atcgrid.SC: line 20: 29165 Segmentation fault      (core dumped) $PBS_O_WORKDIR/Listado1 $N
+/var/lib/torque/mom_priv/jobs/46442.atcgrid.SC: line 20: 29168 Segmentation fault      (core dumped) $PBS_O_WORKDIR/Listado1 $N
+/var/lib/torque/mom_priv/jobs/46442.atcgrid.SC: line 20: 29173 Segmentation fault      (core dumped) $PBS_O_WORKDIR/Listado1 $N
+/var/lib/torque/mom_priv/jobs/46442.atcgrid.SC: line 20: 29179 Segmentation fault      (core dumped) $PBS_O_WORKDIR/Listado1 $N
+/var/lib/torque/mom_priv/jobs/46442.atcgrid.SC: line 20: 29184 Segmentation fault      (core dumped) $PBS_O_WORKDIR/Listado1 $N
+/var/lib/torque/mom_priv/jobs/46442.atcgrid.SC: line 20: 29190 Segmentation fault      (core dumped) $PBS_O_WORKDIR/Listado1 $N
+/var/lib/torque/mom_priv/jobs/46442.atcgrid.SC: line 20: 29195 Segmentation fault      (core dumped) $PBS_O_WORKDIR/Listado1 $N
+/var/lib/torque/mom_priv/jobs/46442.atcgrid.SC: line 20: 29201 Segmentation fault      (core dumped) $PBS_O_WORKDIR/Listado1 $N
