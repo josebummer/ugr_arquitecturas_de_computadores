@@ -1,0 +1,5 @@
+5.- Porque hay un tiempo en el que el proceso no se esta ejecutando y por eso el tiempo real es mayor que la suma del tiempo del usuario y el sistema.
+
+6.- NI = 3+6*n (mirado en codigo ensablador)
+    10 valores --> 63/(0.003*10^6) = 0.021
+    10000000 -->   60000003/(0.148*10^6) = 405,405...
